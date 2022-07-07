@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ian-IBCIRL
 - 👀 I’m interested in C, C++, C#, Python, React in fintech/markets
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning full stack dev with Code Institute including python and django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me here
 
