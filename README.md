@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ian-IBCIRL
 
-- 👀 I wa interested in C, C++, and C# 
+- 👀 I was interested in C, C++, and C# 
 - Nowadays, it's Python, DJango and React in fintech/markets
 - Ones to watch include go, rust, erlang and other immutable languages, eh?
 
