@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @ian-IBCIRL
-- 👀 I’m interested in C, C++, C#, Python, React in fintech/markets
-- 🌱 I’m currently learning full stack dev with Code Institute including python and django
-- 💞️ I’m looking to collaborate on ...
+
+- 👀 I wa interested in C, C++, and C# 
+- Nowadays, it's Python, DJango and React in fintech/markets
+- Ones to watch include go, rust, erlang and other immutable languages, eh?
+
+- 🌱 I’m currently re-establishing myself in full stack dev with Code Institute including python and django
+
+- 💞️ I’m looking to collaborate on AI, VR and more.
 - 📫 How to reach me here
 
 <!---
