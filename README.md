@@ -7,7 +7,10 @@
 - 🌱 I’m currently re-establishing myself in full stack dev with Code Institute including python and django
 
 - 💞️ I’m looking to collaborate on AI, VR and more.
-- 📫 How to reach me here
+- including making [this](https://github.com/ian-IBCIRL/AskAncestor) one a reality.
+- Check the NDRC pitch deck. 
+
+- 📫 How to reach me [here](https://ibcirl.com/)
 
 <!---
 ian-IBCIRL/ian-IBCIRL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
