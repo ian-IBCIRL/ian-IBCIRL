@@ -8,7 +8,7 @@
 
 - 💞️ I’m looking to collaborate on AI, VR and more.
 - including making [this](https://github.com/ian-IBCIRL/AskAncestor) one a reality.
-- Check the NDRC pitch deck. 
+- Check the NDRC pitch [deck](https://github.com/ian-IBCIRL/AskAncestor/blob/master/Shanakey%20Pitch%20Deck%20-%20NDRC%20Founder%20Weekend.pdf). 
 
 - 📫 How to reach me [here](https://ibcirl.com/)
 
